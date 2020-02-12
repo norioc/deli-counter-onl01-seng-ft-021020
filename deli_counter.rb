@@ -26,6 +26,6 @@ def take_a_number(array, name)
 def now_serving(array)
   
   if array.count == 0
-  puts "There is nobody "
+  puts "There is nobody in line."
 
   
